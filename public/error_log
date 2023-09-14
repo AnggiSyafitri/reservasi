@@ -1,0 +1,6 @@
+[17-Jun-2023 01:36:53 UTC] PHP Warning:  require(/home/sanettic/demo.sanetti.co.id/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sanettic/demo.sanetti.co.id/public/index.php on line 34
+[17-Jun-2023 01:36:53 UTC] PHP Warning:  require(/home/sanettic/demo.sanetti.co.id/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sanettic/demo.sanetti.co.id/public/index.php on line 34
+[17-Jun-2023 01:36:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sanettic/demo.sanetti.co.id/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sanettic/demo.sanetti.co.id/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/sanettic/demo.sanetti.co.id/public/index.php on line 34
